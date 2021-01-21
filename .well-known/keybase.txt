@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/nohirara
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nohirara.github.io
+  * I am nohirara (https://keybase.io/nohirara) on keybase.
+  * I have a public key with fingerprint CC95 6E13 40C5 8EB5 9FBA  542C C77B 602D E8CD 650C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206164f6c51554f33e82b716b3df66bd96343b491776599aa6ca3e6b421d8b22430a",
+      "fingerprint": "cc956e1340c58eb59fba542cc77b602de8cd650c",
+      "host": "keybase.io",
+      "key_id": "c77b602de8cd650c",
+      "kid": "0101ff195de896b1da4eb41ecd8b71aba355c2b624825f6d13ed85085daee65382050a",
+      "uid": "9503229ebeabc276b4c805ae8aa02d19",
+      "username": "nohirara"
+    },
+    "service": {
+      "hostname": "nohirara.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1611236697,
+  "expire_in": 157680000,
+  "prev": "244422fe294c3bbdfb8ef411b61129f33bb0fa9bc162f0d3bae9926fb4bbffae",
+  "seqno": 29,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNxAnicbVJtUBVVGL74gXFFcFBAnAaGjfIjwN2zu+fuXobBSOQHHzVMMwiKlz27
+Z7nLx166d7mBDIZDOKgwUaSROEzlR4IZNTmIfDQpAgFBaoRUUkhRGDIIWVR+0C7l
+n6bz58x53+d53ud9z3t51VKT2aOnODNicgB7e/RfrC8wZXqVpxUTyCEVEdZiIgcv
+XjhXwi7NlqNIhJUgKUBCCjIyFFmKZRmZpjEHkIWCiJZkCJHEQ5qhEcNTFgtkeV4Q
+oCjQGCIGUBKHAGBoUiDCCVlRs7Az36momi4rijwLMUUzpMhyGLG8jASWAaJosSBI
+AglzogRZUtSJdofLYOjmkODCkYpDj+kP26K9/8E/8k1SskzxrJ7iIaIkgcGIobCo
+e7JQAhJolhUBgoDhACtDiaKxxLEkx0oCxpClOUCyi74LFuV4lqQB4DHCAhKBRe9O
+5EhWwJwg6NUp3gC6sFMV8rCOVh12xSk4BaIknNCjbkXExmCNTv6DiMxSNHsB+qer
+fKdDc4iOXD1v17R8l9Xga0X5BuEljGz/StmQokr6NHWGGztdikMlrJSOFDXF0KYg
+RQEaQt4STuDCfMWJbYqBYC2QI/Vj1MFuXRIwDAOAjAHPiDRCkow4LDMUhQwBXv9o
+hEhZ4JFIQSCTEo0EzPMAyohBSJYFTBjNvag6CCvgdZ9Clq7pUrJUQStwYqLk0sVd
+y0weZpPn8iXGmpnMXqsfLV9D0GpT0/jcHDzSy6zdVGv3tiYX79siuq6Gn7udcqpm
+M2yM9HwsaHtVoXeUpICRWwl5wbj5u7caWu5M7fpi8MS+B73rs5cETRLdV64NNXTP
+17vfKO27ckDrESFXf31/83P84Thb/Ib5IwMleb5s58qE3g+Lkr8qlBbGS4Y/v1r9
+qzW97bynX8SXY8+EqbNN+U2/L98zPDRW/fLZHzcHDzbuDp4aLX2QGjR3p3Mh9mDI
+zmwfL5/vZ1LfriUvLQ1ITvLfEDEk7o1JMM/UH/q5u6/s7prKG34X/nxYuWOjT3Tw
+SZiWiM/8QqwqOz5f4KtF5cS3PVumDt8/Z1uRFDjmhzJ9lI29W2PHS1ND/dsCvyGZ
+UDWj9dZvbnNh+6D40brMjP6duTOzHct8ievTp6t2Kynm+x+H1KW6q/+ouPF6382T
+pUJSd0xvWA2YWfnUtU86by4kut6zqF9nBTTL69pnQ6rGSg6sOTRUk7c/fesLdYHl
+oZfFEfvRtY3TYlhRTsto+bwrOjsxpW7sbOXjE5nHWlp/+qBjR9pnPW1vvqa4T7z/
+ZMPt2JGO88L0ZD97ZvQ42bNl/dF301tXxGyreDpu5t6eUq8WxG/LrtdA19zU3Yl3
+ug4PFOdUeDD+7ocJqOPCwemJ/lcbarXoY3tf+SGvKCC3/VsQn07Pn/J6/olN2fe6
+ok77fsovOOMGM/6K3d71N5CiyaQ=
+=hOZc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nohirara
+
+==================================================================
