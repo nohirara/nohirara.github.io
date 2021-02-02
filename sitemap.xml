@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://nohirara.github.io/activity/</loc>
+  </url>
+  
+  <url>
     <loc>https://nohirara.github.io/canary/</loc>
   </url>
   
@@ -20,10 +24,6 @@
   
   <url>
     <loc>https://nohirara.github.io/pgp/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nohirara.github.io/activity/</loc>
   </url>
   
   <url>
