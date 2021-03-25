@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://nohirara.github.io/activity/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nohirara.github.io/canary/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nohirara.github.io/contact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nohirara.github.io/disclaimer/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nohirara.github.io/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nohirara.github.io/pgp/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nohirara.github.io/statement/</loc>
   </url>
-  
 </urlset>
